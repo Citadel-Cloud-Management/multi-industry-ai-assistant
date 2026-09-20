@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 888 388" width="888" height="388" role="img" aria-label="multi-industry-ai-assistant architecture">
+<title>multi-industry-ai-assistant architecture</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect width="888" height="388" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#0f172a">multi-industry-ai-assistant</text>
+<text x="24" y="56" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#475569">Components under src/. Stack: Python, HTML. Generated from the repository layout.</text>
+<rect x="24" y="80" width="270" height="126" rx="8" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="38" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">industries/</text>
+<text x="38" y="126" font-family="Consolas,monospace" font-size="12" fill="#334155">3 files</text>
+<text x="38" y="144" font-family="Consolas,monospace" font-size="12" fill="#334155">finance</text>
+<text x="38" y="162" font-family="Consolas,monospace" font-size="12" fill="#334155">healthcare</text>
+<text x="38" y="180" font-family="Consolas,monospace" font-size="12" fill="#334155">oil_gas</text>
+<rect x="312" y="80" width="270" height="126" rx="8" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="326" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">agents/</text>
+<text x="326" y="126" font-family="Consolas,monospace" font-size="12" fill="#334155">2 files</text>
+<text x="326" y="144" font-family="Consolas,monospace" font-size="12" fill="#334155">finance_oilgas_agents.py</text>
+<text x="326" y="162" font-family="Consolas,monospace" font-size="12" fill="#334155">healthcare_agent.py</text>
+<rect x="600" y="80" width="270" height="126" rx="8" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="614" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">api/</text>
+<text x="614" y="126" font-family="Consolas,monospace" font-size="12" fill="#334155">1 files</text>
+<text x="614" y="144" font-family="Consolas,monospace" font-size="12" fill="#334155">main.py</text>
+<rect x="24" y="224" width="270" height="126" rx="8" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="38" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">core/</text>
+<text x="38" y="270" font-family="Consolas,monospace" font-size="12" fill="#334155">1 files</text>
+<text x="38" y="288" font-family="Consolas,monospace" font-size="12" fill="#334155">assistant.py</text>
+</svg>
