@@ -97,3 +97,8 @@ HIPAA/HITRUST | FedRAMP High | CMMC Level 2 | PCI DSS | SOC 2 | NIST 800-53 | Ze
 
 ## Author
 **Kehinde (Kenny) Ogunlowo** — [citadelcloudmanagement.com](https://citadelcloudmanagement.com) | kogunlowo@gmail.com | [LinkedIn](https://linkedin.com/in/kehinde-ogunlowo)
+
+<!-- architecture -->
+## Architecture
+
+![Architecture diagram](docs/architecture.svg)
